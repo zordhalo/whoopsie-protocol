@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Analysis artifacts — never commit decompiled or captured data
+*.log
+btsnoop_hci.log
+whoop_decompiled/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
