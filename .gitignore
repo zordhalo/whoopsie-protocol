@@ -16,3 +16,7 @@ whoop_decompiled/
 # IDE
 .idea/
 .vscode/
+dart/.dart_tool/
+dart/.packages
+dart/pubspec.lock
+dart/build/

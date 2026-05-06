@@ -1,0 +1,16 @@
+name: whoopsie_protocol
+description: WHOOP 4.0 (Harvard) BLE protocol — frame codec, command builders, sensor parsers.
+version: 0.1.0
+homepage: https://github.com/project-whoopsie/whoopsie-protocol
+repository: https://github.com/project-whoopsie/whoopsie-protocol
+issue_tracker: https://github.com/project-whoopsie/whoopsie-protocol/issues
+
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  collection: ^1.18.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^4.0.0
