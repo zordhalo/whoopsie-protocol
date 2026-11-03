@@ -1,5 +1,7 @@
 # whoopsie-protocol
 
+[![MCP servers live](https://whobuildsagents.com/badge/advancelabs.dev.svg)](https://whobuildsagents.com/advancelabs.dev)
+
 Part of [project-whoopsie](https://github.com/project-whoopsie) — see the [main repository](https://github.com/project-whoopsie/whoopsie) for context on what this project is and why it exists.
 
 - [whoopsie-backend](https://github.com/project-whoopsie/whoopsie-backend) ← The FastAPI metrics server.
